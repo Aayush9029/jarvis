@@ -1,0 +1,18 @@
+[project]
+name = "jarvis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "instructor>=1.8.1",
+    "numpy>=2.2.5",
+    "openai>=1.78.1",
+    "openai-whisper>=20240930",
+    "opencv-python>=4.11.0.86",
+    "pyaudio>=0.2.14",
+    "pydub>=0.25.1",
+    "sounddevice>=0.5.1",
+    "websocket-client>=1.6.0",
+    "python-dotenv>=1.0.0",
+]
